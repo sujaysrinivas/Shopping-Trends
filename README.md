@@ -14,6 +14,10 @@ Dataset: The dataset used for this Analysis is the shopping_trends.csv file
 
 Python - Data import, data cleaning and EDA process
 
+## Link to the Jupyter Notebook
+
+Jupyter Notebook [https://github.com/sujaysrinivas/Shopping-Trends/blob/main/Shopping%20Trends%20EDA.ipynb]
+
 ## Description
 
 The shopping trends dataset encompasses key shopping metrics such as product categories, payment methods, seasons, gender, subscription status, and more. The primary objective of this project is to perform a comprehensive Exploratory Data Analysis (EDA) to identify trends, create insightful data visualizations, and extract actionable insights. These insights will provide businesses with data-driven recommendations to enhance customer satisfaction, optimize sales strategies, and ultimately improve overall operational efficiency and customer experience
