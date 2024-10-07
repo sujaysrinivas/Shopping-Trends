@@ -2,27 +2,13 @@
 
   ![11-trends-in-ecommerce](https://github.com/user-attachments/assets/6d8f799b-554f-481c-b29b-1042b05f092c)
 
-## Business Problem
+## Project Overview
+
+### Business Problem
 
 Conducting comprehensive Exploratory Data Analysis (EDA) on shopping data to identify trends, extract actionable insights, and develop data visualizations. These insights equip businesses with valuable information related to consumer shopping behavior, enabling them to make data-driven decisions and enhance operational strategies
 
-## Data source
-
-Dataset: The dataset used for this Analysis is the shopping_trends.csv file
-
-## Tools
-
-Python - Data import, data cleaning and EDA process
-
-## Link to the Jupyter Notebook
-
-Jupyter Notebook [https://github.com/sujaysrinivas/Shopping-Trends/blob/main/Shopping%20Trends%20EDA.ipynb]
-
-## Description
-
-The shopping trends dataset encompasses key shopping metrics such as product categories, payment methods, seasons, gender, subscription status, and more. The primary objective of this project is to perform a comprehensive Exploratory Data Analysis (EDA) to identify trends, create insightful data visualizations, and extract actionable insights. These insights will provide businesses with data-driven recommendations to enhance customer satisfaction, optimize sales strategies, and ultimately improve overall operational efficiency and customer experience
-
-## Insights and Recommendations
+### Insights and Recommendations
 
 * There is a significant gender imbalance, with males representing roughly twice the number of females
 * Clothing dominates sales distribution, indicating strong customer interest. It is a key area for increasing promotions, inventory, and enhancing customer             experience
@@ -35,6 +21,24 @@ The shopping trends dataset encompasses key shopping metrics such as product cat
 * Target high-spending regions like Montana, California, and Illinois with premium offers, while exploring ways to increase engagement in lower-spending regions like   Kansas and Florida through pricing strategies, offers and discounts
 * Implement strategies to boost the sales of smaller segments like footwear and outerwear, such as seasonal promotions or expanding the product range
 * A large proportion (73%) of the dataset has not opted for a subscription, while only 27% have subscribed. This highlights a need to improve subscription rates
+
+## Detailed Analysis
+
+### Data source
+
+Dataset: The dataset used for this Analysis is the shopping_trends.csv file
+
+### Tools
+
+Python - Data import, data cleaning and EDA process
+
+### Link to the Jupyter Notebook
+
+Jupyter Notebook [https://github.com/sujaysrinivas/Shopping-Trends/blob/main/Shopping%20Trends%20EDA.ipynb]
+
+### Description
+
+The shopping trends dataset encompasses key shopping metrics such as product categories, payment methods, seasons, gender, subscription status, and more. The primary objective of this project is to perform a comprehensive Exploratory Data Analysis (EDA) to identify trends, create insightful data visualizations, and extract actionable insights. These insights will provide businesses with data-driven recommendations to enhance customer satisfaction, optimize sales strategies, and ultimately improve overall operational efficiency and customer experience
 
 
 
